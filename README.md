@@ -5,3 +5,5 @@ COMPILER DESIGN
 ![3 counting macros and header](https://github.com/Shruthika1511/CSA1403-CD/assets/112743361/1b4cd920-09aa-4c6e-b6d4-815b45e86211)
 ![4 html](https://github.com/Shruthika1511/CSA1403-CD/assets/112743361/397293ff-776d-4942-8780-9658467f87af)
 ![5 addlines](https://github.com/Shruthika1511/CSA1403-CD/assets/112743361/b3277271-1ac7-4651-8fc7-dc32991db50c)
+![6 comments](https://github.com/Shruthika1511/CSA1403-CD/assets/112743361/0ff7e286-031a-4830-829a-0e5bc1dd2a01)
+![7 capital](https://github.com/Shruthika1511/CSA1403-CD/assets/112743361/d408eabb-54ad-4e20-b3d2-6e0d2ae10bf8)
