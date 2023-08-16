@@ -11,6 +11,5 @@ COMPILER DESIGN
 ![9 mobilenumber](https://github.com/Shruthika1511/CSA1403-CD/assets/112743361/de554613-b07c-4fed-b5fb-918c9f445b50)
 ![10 keywords   identifiers](https://github.com/Shruthika1511/CSA1403-CD/assets/112743361/3bf079ac-4596-4c6a-84ab-91ebc0618842)
 ![11 tokens](https://github.com/Shruthika1511/CSA1403-CD/assets/112743361/f5cd605e-82a4-4417-99c5-2c50a9adabf9)
-![12 positive and negative nos](https://github.com/Shruthika1511/CSA1403-CD/assets/112743361/da7023c7-35c4-4e8a-b09e-7de6bcff3761)
 
 
