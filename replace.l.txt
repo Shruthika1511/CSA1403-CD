@@ -1,0 +1,19 @@
+%{
+#include <stdio.h>
+#include <string.h>
+%}
+
+%%
+apple    { printf("banana "); }  // Replace "apple" with "banana"
+.        { putchar(yytext[0]); }  // Print other characters as-is
+%%
+int yywrap(void){
+return 1;
+}
+
+int main(int argc, char* argv[]) {
+    yyin = stdin;   // Set input to standard input
+    yylex();        // Start Lex scanning
+    return 0;
+}
+
